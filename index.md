@@ -12,9 +12,15 @@ hero:
     - theme: alt
       text: TM Locations
       link: /tms
+    - theme: alt
+      text: Items Locations in shops
+      link: /shop
 
 features:
   - title: TM Locations
     details: A complete list of all 171 TMs and where to find them — shops, gyms, area rewards, and wild drops.
     link: /tms
+  - title: Items Locations in shops
+    details: A complete list of all the items that can be bought in the shops and where to find them
+    link: /shop
 ---
