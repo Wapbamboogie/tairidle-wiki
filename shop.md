@@ -30,7 +30,7 @@ All purchasable items organized by category and shop location.
 | Poké Ball | Any Shop location |
 | Great Ball | Any Shop location (1 badges) | 
 | Ultra Ball | Any Shop location (4 badges) |
-| Master Ball | Saffron City (8 badges) |
+| Master Ball | Saffron City (Kanto Dex Completion) |
 
 ## TMs
 
