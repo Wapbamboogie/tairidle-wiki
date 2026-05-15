@@ -23,10 +23,10 @@ features:
   - title: TM Locations
     details: A complete list of all 171 TMs and where to find them — shops, gyms, area rewards, and wild drops.
     link: /tms
-  - title: Items locations in shops
+  - title: Shops
     details: A complete list of all the items that can be bought in the shops and where to find them.
     link: /shop
-  - title: Special Evolutions Methods
+  - title: Evolution Methods
     details: A complete list of all the special evolutions methods for pokemon that doesn't evolve by leveling up.
     link: /evolution
 ---
