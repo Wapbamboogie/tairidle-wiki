@@ -35,11 +35,18 @@ export default defineConfig({
         ],
       },
       {
+        text: 'Encounters',
+        items: [
+          { text: 'Encounters List and Locations', link: '/encounters' },
+        ],
+      },
+      {
         text: 'Meta',
         items: [
           { text: 'Contributing', link: '/contributing' },
         ],
       },
+      
     ],
 
     search: { provider: 'local' },

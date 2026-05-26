@@ -15,9 +15,12 @@ hero:
     - theme: alt
       text: Items locations in shops
       link: /shop
-      - theme: alt
+    - theme: alt
       text: Special Evolutions Methods
       link: /evolution
+    - theme: alt
+      text: Encounters and Locations
+      link: /encounters  
 
 features:
   - title: TM Locations
@@ -29,4 +32,7 @@ features:
   - title: Special Evolutions Methods
     details: A complete list of all the special evolutions methods for pokemon that doesn't evolve by leveling up.
     link: /evolution
+  - title: Encounters and Locations
+    details: A complete list of all the pokemon encounters per routes as well as their level range and their enounter rate
+    link: /encounters
 ---
