@@ -136,14 +136,13 @@ This page lists all the special evolution methods that some pokemon requires suc
 | Sneasel | Razor Claw | Sneasel | Weavile |
 | Happiny | Oval Stone | Happiny | Chansey |
 | Charcadet | Auspicious Armor | WIP | Armarouge |
-| Scyther | Black Augurite | WIP | Kleavor |
 | Sinistea | Chipped Pot | Sinistea | Polteageist (Antique Form) |
 | Sinistea | Cracked Pot | Sinistea | Polteageist (Phony Form) |
 | Slowbro | Galarica Cuff | Slowbro | Galarian Slowbro |
 | Slowbro | Galarica Wreath | Slowbro | Galarian Slowking |
 | Charcadet | Malicious Armor | WIP | Ceruledge |
 | Poltchageist | Masterpiece Teacup | WIP | Sinistcha |
-| Duraludon | Metal Alloy | WIP | Archaludon |
+| Duraludon | Metal Alloy | Duraludon | Archaludon |
 | Ursaring | Peat Block | WIP | Ursaluna |
 | Kubfu | Scroll of Darkness | WIP | Urshifu (Single Strike Form) |
 | Kubfu | Scroll of Waters | WIP | Urshifu (Rapid Strike Style) |
@@ -197,4 +196,6 @@ This page lists all the special evolution methods that some pokemon requires suc
 
 | Pokémon | Method | Evolves To |
 |---------|--------|-----------|
-| Inkay | Shake the pokemon (idk Tairi is a bit weird) | Malamar |
+| Inkay | Shake the pokemon while in your party | Malamar |
+| Milcery | Skake the pokemon while in your party | Alcremie (Random Form) |
+| Yamask Galar | Have the pokemon under 50% HP | Cofagrigus |

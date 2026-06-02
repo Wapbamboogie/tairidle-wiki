@@ -18,9 +18,9 @@ Some locations also have **Regi encounters** that appear after the first Ancient
 When multiple phases are active, all pools are combined into one weighted draw.
 
 
-# Route 1
+## Route 1
 
-## Route encounters
+# Route encounters
 **Base Pool** (0 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -28,8 +28,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Pidgey | 2–5 | 60 | 60.0% |
 | Rattata | 2–4 | 40 | 40.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool** (catch all Gen 1 shiny)
 
@@ -46,10 +44,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Pidove | 2–5 | 12 | 11.7% |
 | Rattata (Alola) | 2–5 | 4 | 3.9% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool** (catch all Gen 1–5 shiny)
 
@@ -62,11 +56,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Lechonk | 2–5 | 12 | 17.4% |
 | Pawmi | 2–5 | 10 | 14.5% |
 
-</details>
 
-# Route 2
+## Route 2
 
-## Route encounters
+# Route encounters
 **Base Pool** (0 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -76,8 +69,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Caterpie | 3–4 | 13 | 13.0% |
 | Weedle | 3–4 | 12 | 12.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -95,10 +86,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Sewaddle | 3–5 | 10 | 10.5% |
 | Rattata (Alola) | 3–5 | 4 | 4.2% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -109,11 +96,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Tarountula | 3–6 | 12 | 25.0% |
 | Pawmi | 3–6 | 10 | 20.8% |
 
-</details>
 
-# Route 22
+## Route 22
 
-## Route encounters
+# Route encounters
 **Base Pool** (0 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -125,8 +111,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Mankey | 2–5 | 7 | 7.0% |
 | Poliwag | 3–5 | 3 | 3.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -136,22 +120,15 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Taillow | 2–5 | 12 | 10.1% |
 | Pidove | 2–5 | 12 | 10.1% |
 | Poochyena | 2–5 | 12 | 10.1% |
-| Tympole | 2–5 | 10 | 8.4% |
-| Wooper | 2–5 | 10 | 8.4% |
 | Lotad | 2–5 | 10 | 8.4% |
 | Seedot | 2–5 | 10 | 8.4% |
 | Surskit | 2–5 | 10 | 8.4% |
 | Azurill | 2–5 | 10 | 8.4% |
 | Ralts | 2–5 | 8 | 6.7% |
-| Mudkip | 2–5 | 8 | 6.7% |
 | Chimchar | 2–5 | 8 | 6.7% |
 | Rattata (Alola) | 2–5 | 4 | 3.4% |
 | Zigzagoon (Galar) | 2–5 | 4 | 3.4% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -163,11 +140,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Wiglett | 2–5 | 10 | 18.2% |
 | Quaxly | 2–5 | 8 | 14.5% |
 
-</details>
 
-# Viridian Forest
+## Viridian Forest
 
-## Route encounters
+# Route encounters
 **Base Pool** (0 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -178,8 +154,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Kakuna | 4–7 | 15 | 15.0% |
 | Pikachu | 3–7 | 5 | 5.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -198,7 +172,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Shelmet | 3–7 | 8 | 3.5% |
 | Karrablast | 3–7 | 8 | 3.5% |
 | Pichu | 3–7 | 8 | 3.5% |
-| Yanma | 3–7 | 8 | 3.5% |
 | Nincada | 3–7 | 8 | 3.5% |
 | Volbeat | 3–7 | 8 | 3.5% |
 | Illumise | 3–7 | 8 | 3.5% |
@@ -210,10 +183,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Treecko | 3–7 | 8 | 3.5% |
 | Pineco | 3–7 | 10 | 4.4% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -228,11 +197,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Morelull | 3–7 | 10 | 13.9% |
 | Slither Wing *(paradox)* | 5–9 | 4 | 5.6% |
 
-</details>
 
-# Route 3
+## Route 3
 
-## Route encounters
+# Route encounters
 **Base Pool** (1 badge)
 
 | Pokémon | Levels | Weight | % |
@@ -244,8 +212,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Sandshrew | 5–10 | 10 | 10.0% |
 | Ekans | 5–10 | 5 | 5.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -257,7 +223,7 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Teddiursa | 5–10 | 10 | 8.5% |
 | Skitty | 5–10 | 10 | 8.5% |
 | Swablu | 5–10 | 10 | 8.5% |
-| Gulpin | 5–10 | 10 | 8.5% |
+
 | Minccino | 5–10 | 10 | 8.5% |
 | Buneary | 5–10 | 10 | 8.5% |
 | Stunky | 5–10 | 10 | 8.5% |
@@ -266,10 +232,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Mawile | 5–10 | 8 | 6.8% |
 | Igglybuff | 5–10 | 8 | 6.8% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -281,11 +243,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Litleo | 5–10 | 10 | 19.2% |
 | Fuecoco | 5–10 | 8 | 15.4% |
 
-</details>
 
-# Mt. Moon
+## Mt. Moon
 
-## Route encounters
+# Route encounters
 **Base Pool** (1 badge)
 
 | Pokémon | Levels | Weight | % |
@@ -295,8 +256,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Clefairy | 8–12 | 15 | 15.0% |
 | Paras | 8–12 | 10 | 10.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -316,10 +275,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Togepi | 8–12 | 5 | 5.7% |
 | Geodude (Alola) | 8–12 | 4 | 4.5% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -331,11 +286,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Orthworm | 8–12 | 8 | 18.2% |
 | Minior | 8–12 | 8 | 18.2% |
 
-</details>
 
-# Route 4
+## Route 4
 
-## Route encounters
+# Route encounters
 **Base Pool** (1 badge)
 
 | Pokémon | Levels | Weight | % |
@@ -347,8 +301,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Ekans | 10–15 | 10 | 10.0% |
 | Sandshrew | 10–15 | 5 | 5.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -361,10 +313,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Aipom | 10–15 | 10 | 18.5% |
 | Munna | 10–15 | 10 | 18.5% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -375,11 +323,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Nymble | 10–15 | 10 | 22.7% |
 | Pawmi | 10–15 | 10 | 22.7% |
 
-</details>
 
-# Route 24
+## Route 24
 
-## Route encounters
+# Route encounters
 **Base Pool** (1 badge)
 
 | Pokémon | Levels | Weight | % |
@@ -394,8 +341,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Psyduck | 10–14 | 5 | 5.0% |
 | Krabby | 10–14 | 5 | 5.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -404,30 +349,23 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Marill | 10–15 | 12 | 15.8% |
 | Surskit | 10–15 | 10 | 13.2% |
 | Lotad | 10–15 | 10 | 13.2% |
-| Tympole | 10–15 | 10 | 13.2% |
 | Ducklett | 10–15 | 10 | 13.2% |
 | Budew | 10–15 | 10 | 13.2% |
 | Ralts | 10–15 | 8 | 10.5% |
 | Azumarill | 12–15 | 6 | 7.9% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
 | Pokémon | Levels | Weight | % |
 |---|---|---|---|
 | Gossifleur | 10–15 | 10 | 38.5% |
-| Finizen | 10–15 | 8 | 30.8% |
 | Swirlix | 10–15 | 8 | 30.8% |
 
-</details>
 
-# Route 25
+## Route 25
 
-## Route encounters
+# Route encounters
 **Base Pool** (0 badges, accessed after Cerulean)
 
 | Pokémon | Levels | Weight | % |
@@ -442,8 +380,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Krabby | 10–14 | 10 | 10.5% |
 | Magikarp | 5–5 | 5 | 5.3% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -453,32 +389,20 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Wingull | 10–15 | 12 | 15.8% |
 | Buizel | 10–15 | 10 | 13.2% |
 | Shellos | 10–15 | 10 | 13.2% |
-| Corphish | 10–15 | 10 | 13.2% |
-| Corsola | 10–15 | 8 | 10.5% |
-| Qwilfish | 10–15 | 8 | 10.5% |
 | Luvdisc | 10–15 | 8 | 10.5% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
 | Pokémon | Levels | Weight | % |
 |---|---|---|---|
-| Wishiwashi | 10–15 | 10 | 20.0% |
-| Pyukumuku | 10–15 | 10 | 20.0% |
 | Cramorant | 10–15 | 8 | 16.0% |
-| Finizen | 10–15 | 8 | 16.0% |
-| Bruxish | 10–15 | 8 | 16.0% |
 | Veluza | 12–16 | 6 | 12.0% |
 
-</details>
 
-# Route 10
+## Route 10
 
-## Route encounters
+# Route encounters
 **Base Pool** (2 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -488,8 +412,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Zubat | 14–18 | 20 | 20.0% |
 | Geodude | 14–18 | 20 | 20.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -506,10 +428,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Tynamo | 14–18 | 6 | 6.8% |
 | Castform | 14–18 | 5 | 5.7% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -522,11 +440,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Morpeko | 14–18 | 8 | 15.1% |
 | Toxel | 14–18 | 8 | 15.1% |
 
-</details>
 
-# Route 5
+## Route 5
 
-## Route encounters
+# Route encounters
 **Base Pool** (2 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -536,8 +453,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Abra | 13–17 | 20 | 20.0% |
 | Nidoran ♀ | 13–17 | 10 | 10.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -554,10 +469,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Meowth (Alola) | 13–17 | 4 | 4.7% |
 | Meowth (Galar) | 13–17 | 4 | 4.7% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -568,11 +479,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Milcery | 13–17 | 10 | 26.3% |
 | Flittle | 13–17 | 8 | 21.1% |
 
-</details>
 
-# Route 6
+## Route 6
 
-## Route encounters
+# Route encounters
 **Base Pool** (2 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -583,8 +493,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Nidoran ♂ | 14–18 | 10 | 10.0% |
 | Nidoran ♀ | 14–18 | 10 | 10.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -599,10 +507,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Meowth (Alola) | 14–18 | 4 | 6.3% |
 | Meowth (Galar) | 14–18 | 4 | 6.3% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -612,11 +516,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Milcery | 14–18 | 10 | 33.3% |
 | Capsakid | 14–18 | 8 | 26.7% |
 
-</details>
 
-# Diglett's Cave
+## Diglett's Cave
 
-## Route encounters
+# Route encounters
 **Base Pool** (3 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -624,24 +527,18 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Diglett | 15–22 | 80 | 80.0% |
 | Dugtrio | 22–29 | 20 | 20.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
 | Pokémon | Levels | Weight | % |
 |---|---|---|---|
 | Drilbur | 15–22 | 15 | 36.6% |
-| Stunfisk | 15–22 | 10 | 24.4% |
 | Excadrill | 22–29 | 8 | 19.5% |
 | Diglett (Alola) | 15–22 | 6 | 14.6% |
 
-</details>
 
 *Also: Registeel (lv 50) appears after Ancient Ruins seal 1*
 
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -652,11 +549,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Clodsire | 15–22 | 8 | 23.5% |
 | Sandy Shocks *(paradox)* | 15–22 | 4 | 11.8% |
 
-</details>
 
-# Rock Tunnel
+## Rock Tunnel
 
-## Route encounters
+# Route encounters
 **Base Pool** (3 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -666,8 +562,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Machop | 15–20 | 15 | 15.0% |
 | Onix | 15–20 | 15 | 15.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -691,12 +585,9 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Yamask (Galar) | 15–20 | 4 | 3.5% |
 | Sneasel (Hisui) | 15–20 | 4 | 3.5% |
 
-</details>
 
 *Also: Regirock (lv 50) appears after Ancient Ruins seal 1*
 
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -709,11 +600,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Glimmet | 15–20 | 8 | 16.0% |
 | Iron Thorns *(paradox)* | 15–20 | 4 | 8.0% |
 
-</details>
 
-# Route 9
+## Route 9
 
-## Route encounters
+# Route encounters
 **Base Pool** (3 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -723,23 +613,16 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Nidoran ♂ | 12–16 | 25 | 25.0% |
 | Pidgey | 13–17 | 20 | 20.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
 | Pokémon | Levels | Weight | % |
 |---|---|---|---|
 | Wingull | 13–17 | 12 | 28.6% |
-| Yanma | 13–17 | 10 | 23.8% |
 | Phanpy | 13–17 | 10 | 23.8% |
 | Swablu | 13–17 | 10 | 23.8% |
 | Ducklett | 13–17 | 10 | 23.8% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -750,11 +633,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Salandit | 13–17 | 10 | 25.0% |
 | Toedscool | 13–17 | 8 | 20.0% |
 
-</details>
 
-# Route 11
+## Route 11
 
-## Route encounters
+# Route encounters
 **Base Pool** (3 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -764,8 +646,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Nidoran ♀ | 13–17 | 15 | 15.0% |
 | Nidoran ♂ | 13–17 | 15 | 15.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -780,10 +660,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Wynaut | 13–17 | 8 | 10.8% |
 | Rufflet | 13–17 | 8 | 10.8% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -796,11 +672,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Flittle | 13–17 | 8 | 15.7% |
 | Flamigo | 13–17 | 6 | 11.8% |
 
-</details>
 
-# Route 7
+## Route 7
 
-## Route encounters
+# Route encounters
 **Base Pool** (3 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -810,8 +685,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Pikachu | 18–22 | 20 | 20.0% |
 | Pidgey | 18–22 | 20 | 20.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -825,10 +698,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Meowth (Alola) | 18–22 | 4 | 6.7% |
 | Meowth (Galar) | 18–22 | 4 | 6.7% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -840,11 +709,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Inkay | 18–22 | 10 | 20.0% |
 | Shroodle | 18–22 | 8 | 16.0% |
 
-</details>
 
-# Route 8
+## Route 8
 
-## Route encounters
+# Route encounters
 **Base Pool** (3 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -857,8 +725,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Vulpix | 19–23 | 10 | 10.0% |
 | Drowzee | 19–23 | 10 | 10.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -875,10 +741,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Meowth (Alola) | 19–23 | 4 | 5.2% |
 | Meowth (Galar) | 19–23 | 4 | 5.2% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -890,11 +752,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Greavard | 19–23 | 10 | 22.2% |
 | Gimmighoul | 19–23 | 5 | 11.1% |
 
-</details>
 
-# Pokemon Tower
+## Pokemon Tower
 
-## Route encounters
+# Route encounters
 **Base Pool** (3 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -903,8 +764,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Haunter | 22–28 | 35 | 35.0% |
 | Cubone | 18–25 | 10 | 10.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -922,10 +781,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Typhlosion (Hisui) | 20–28 | 3 | 2.9% |
 | Zoroark (Hisui) | 20–28 | 3 | 2.9% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -938,11 +793,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Mimikyu | 18–25 | 8 | 17.0% |
 | Flutter Mane *(paradox)* | 18–25 | 4 | 8.5% |
 
-</details>
 
-# Cycling Road
+## Cycling Road
 
-## Route encounters
+# Route encounters
 **Base Pool** (4 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -954,8 +808,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Pidgeotto | 26–31 | 10 | 9.1% |
 | Ponyta | 26–31 | 10 | 9.1% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -968,10 +820,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Houndoom | 26–31 | 8 | 14.8% |
 | Scraggy | 26–31 | 8 | 14.8% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -983,11 +831,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Furfrou | 26–31 | 10 | 20.8% |
 | Gumshoos | 26–31 | 10 | 20.8% |
 
-</details>
 
-# Safari Zone
+## Safari Zone
 
-## Route encounters
+# Route encounters
 **Base Pool** (4 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -1006,8 +853,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Pinsir | 30–36 | 5 | 4.8% |
 | Dratini | 30–36 | 3 | 2.9% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -1027,15 +872,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Absol | 30–36 | 5 | 4.1% |
 | Exeggutor (Alola) | 30–36 | 4 | 3.3% |
 | Slowpoke (Galar) | 30–36 | 5 | 4.1% |
-| Stunfisk (Galar) | 30–36 | 4 | 3.3% |
 | Voltorb (Hisui) | 30–36 | 5 | 4.1% |
 | Lilligant (Hisui) | 30–36 | 4 | 3.3% |
 | Decidueye (Hisui) | 30–38 | 3 | 2.5% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -1048,11 +888,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Farigiraf | 30–36 | 8 | 17.8% |
 | Wo-Chien *(legendary)* | 50–50 | 1 | 2.2% |
 
-</details>
 
-# Route 12
+## Route 12
 
-## Route encounters
+# Route encounters
 **Base Pool** (4 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -1063,25 +902,17 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Goldeen | 22–27 | 15 | 15.0% |
 | Farfetch'd | 22–27 | 5 | 5.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
 | Pokémon | Levels | Weight | % |
 |---|---|---|---|
 | Wingull | 22–27 | 12 | 20.0% |
-| Yanma | 22–27 | 10 | 16.7% |
-| Corsola | 22–27 | 10 | 16.7% |
 | Masquerain | 22–27 | 10 | 16.7% |
 | Swablu | 22–27 | 10 | 16.7% |
 | Ducklett | 22–27 | 10 | 16.7% |
 | Swanna | 22–27 | 8 | 13.3% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -1093,11 +924,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Flamigo | 22–27 | 8 | 18.2% |
 | Dondozo | 24–28 | 4 | 9.1% |
 
-</details>
 
-# Route 13
+## Route 13
 
-## Route encounters
+# Route encounters
 **Base Pool** (4 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -1107,8 +937,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Venonat | 24–29 | 25 | 25.0% |
 | Pidgeotto | 24–29 | 20 | 20.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -1116,16 +944,11 @@ When multiple phases are active, all pools are combined into one weighted draw.
 |---|---|---|---|
 | Hoppip | 24–29 | 12 | 17.6% |
 | Swablu | 24–29 | 10 | 14.7% |
-| Yanma | 24–29 | 10 | 14.7% |
 | Murkrow | 24–29 | 10 | 14.7% |
 | Masquerain | 24–29 | 10 | 14.7% |
 | Mothim | 24–29 | 8 | 11.8% |
 | Carnivine | 24–29 | 8 | 11.8% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -1135,11 +958,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Fomantis | 24–29 | 10 | 35.7% |
 | Bramblin | 24–29 | 8 | 28.6% |
 
-</details>
 
-# Route 14
+## Route 14
 
-## Route encounters
+# Route encounters
 **Base Pool** (4 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -1149,8 +971,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Venonat | 27–32 | 25 | 25.0% |
 | Gloom | 27–32 | 15 | 15.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -1166,10 +986,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Drapion | 27–32 | 8 | 9.5% |
 | Carnivine | 27–32 | 8 | 9.5% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -1178,14 +994,12 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Pancham | 27–32 | 10 | 21.7% |
 | Stufful | 27–32 | 10 | 21.7% |
 | Nickit | 27–32 | 10 | 21.7% |
-| Clodsire | 27–32 | 8 | 17.4% |
 | Bramblin | 27–32 | 8 | 17.4% |
 
-</details>
 
-# Route 15
+## Route 15
 
-## Route encounters
+# Route encounters
 **Base Pool** (4 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -1195,8 +1009,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Venonat | 30–35 | 25 | 25.0% |
 | Eevee | 30–35 | 5 | 5.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -1211,10 +1023,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Panpour | 30–35 | 10 | 14.3% |
 | Vullaby | 30–35 | 8 | 11.4% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -1226,11 +1034,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Passimian | 30–35 | 8 | 16.3% |
 | Fezandipiti *(legendary)* | 30–35 | 5 | 10.2% |
 
-</details>
 
-# Route 16
+## Route 16
 
-## Route encounters
+# Route encounters
 **Base Pool** (4 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -1240,8 +1047,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Rattata | 22–27 | 20 | 20.0% |
 | Raticate | 22–27 | 10 | 10.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -1256,10 +1061,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Rufflet | 22–27 | 8 | 10.5% |
 | Tepig | 22–27 | 8 | 10.5% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -1271,11 +1072,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Bombirdier | 22–27 | 8 | 16.7% |
 | Flamigo | 22–27 | 8 | 16.7% |
 
-</details>
 
-# Route 18
+## Route 18
 
-## Route encounters
+# Route encounters
 **Base Pool** (3 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -1285,8 +1085,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Machop | 15–20 | 15 | 15.0% |
 | Onix | 15–20 | 15 | 15.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -1310,12 +1108,9 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Yamask (Galar) | 15–20 | 4 | 3.5% |
 | Sneasel (Hisui) | 15–20 | 4 | 3.5% |
 
-</details>
 
 *Also: Regirock (lv 50) appears after Ancient Ruins seal 1*
 
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -1328,11 +1123,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Glimmet | 15–20 | 8 | 16.0% |
 | Iron Thorns *(paradox)* | 15–20 | 4 | 8.0% |
 
-</details>
 
-# Power Plant
+## Power Plant
 
-## Route encounters
+# Route encounters
 **Base Pool** (5 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -1345,8 +1139,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Porygon | 30–40 | 3 | 2.9% |
 | Zapdos *(legendary)* | 50–50 | 1 | 1.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -1359,12 +1151,9 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Pikachu | 25–35 | 8 | 14.8% |
 | Rotom | 30–40 | 8 | 14.8% |
 
-</details>
 
 *Also: Regieleki (lv 50) appears after Ancient Ruins seal 1*
 
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -1376,11 +1165,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Sandy Shocks *(paradox)* | 30–40 | 5 | 13.9% |
 | Miraidon *(legendary)* | 70–70 | 1 | 2.8% |
 
-</details>
 
-# Seafoam Islands
+## Seafoam Islands
 
-## Route encounters
+# Route encounters
 **Base Pool** (6 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -1400,8 +1188,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Squirtle | 5–5 | 5 | 3.5% |
 | Articuno *(legendary)* | 50–50 | 1 | 0.7% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -1411,7 +1197,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Swinub | 28–38 | 12 | 8.9% |
 | Vanillite | 28–38 | 10 | 7.4% |
 | Sneasel | 28–38 | 10 | 7.4% |
-| Remoraid | 28–38 | 10 | 7.4% |
 | Delibird | 28–38 | 10 | 7.4% |
 | Snorunt | 28–38 | 10 | 7.4% |
 | Spheal | 28–38 | 10 | 7.4% |
@@ -1420,22 +1205,17 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Piloswine | 30–38 | 8 | 5.9% |
 | Sealeo | 30–38 | 8 | 5.9% |
 | Piplup | 28–38 | 5 | 3.7% |
-| Tirtouga | 28–38 | 5 | 3.7% |
 | Sandshrew (Alola) | 28–38 | 5 | 3.7% |
 | Vulpix (Alola) | 28–38 | 5 | 3.7% |
-| Corsola (Galar) *(Galarian)* | 25–32 | 4 | n/a |
 | Mr. Mime (Galar) | 28–38 | 4 | 3.0% |
 | Darumaka (Galar) | 28–38 | 4 | 3.0% |
 | Qwilfish (Hisui) | 28–38 | 4 | 3.0% |
 | Samurott (Hisui) | 30–40 | 3 | 2.2% |
 | Avalugg (Hisui) | 30–40 | 3 | 2.2% |
 
-</details>
 
 *Also: Regice (lv 50) appears after Ancient Ruins seal 1*
 
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -1449,11 +1229,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Iron Bundle *(paradox)* | 35–45 | 4 | 7.5% |
 | Glastrier *(legendary)* | 50–50 | 2 | 3.8% |
 
-</details>
 
-# Route 19
+## Route 19
 
-## Route encounters
+# Route encounters
 **Base Pool** (6 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -1463,8 +1242,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Magikarp | 10–20 | 15 | 15.0% |
 | Shellder | 20–28 | 5 | 5.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -1475,36 +1252,25 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Buizel | 25–32 | 10 | 11.0% |
 | Shellos | 25–32 | 10 | 11.0% |
 | Qwilfish | 25–32 | 10 | 11.0% |
-| Remoraid | 25–32 | 10 | 11.0% |
-| Corsola | 25–32 | 10 | 11.0% |
 | Wailmer | 25–32 | 10 | 11.0% |
 | Luvdisc | 25–32 | 10 | 11.0% |
 | Ducklett | 25–32 | 10 | 11.0% |
 | Alomomola | 25–32 | 8 | 8.8% |
-| Totodile | 25–32 | 8 | 8.8% |
-| Oshawott | 25–32 | 5 | 5.5% |
-| Corsola (Galar) | 25–32 | 4 | 4.4% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
 | Pokémon | Levels | Weight | % |
 |---|---|---|---|
-| Arrokuda | 25–32 | 12 | 26.1% |
+| Basculegion Male | 28–35 | 2 | 2.8% |
 | Wimpod | 25–32 | 10 | 21.7% |
 | Pyukumuku | 25–32 | 10 | 21.7% |
-| Bruxish | 25–32 | 10 | 21.7% |
-| Clodsire | 25–32 | 8 | 17.4% |
 
-</details>
 
-# Route 20
 
-## Route encounters
+## Route 20
+
+# Route encounters
 **Base Pool** (6 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -1514,8 +1280,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Magikarp | 10–20 | 15 | 15.0% |
 | Shellder | 22–30 | 5 | 5.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -1527,27 +1291,21 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Jellicent | 30–38 | 8 | 20.0% |
 | Feebas | 28–35 | 5 | 12.5% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
 | Pokémon | Levels | Weight | % |
 |---|---|---|---|
-| Arrokuda | 28–35 | 12 | 31.6% |
 | Tatsugiri | 28–35 | 8 | 21.1% |
 | Overqwil | 28–35 | 6 | 15.8% |
 | Dragalge | 28–35 | 8 | 21.1% |
 | Basculegion | 30–38 | 5 | 13.2% |
 | Dracovish *(fossil)* | 28–35 | 5 | 13.2% |
 
-</details>
 
-# Pokemon Mansion
+## Pokemon Mansion
 
-## Route encounters
+# Route encounters
 **Base Pool** (6 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -1561,33 +1319,25 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Growlithe | 30–40 | 5 | 5.0% |
 | Charmander | 5–5 | 5 | 5.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
 | Pokémon | Levels | Weight | % |
 |---|---|---|---|
 | Slugma | 30–40 | 12 | 12.8% |
-| Gulpin | 30–40 | 12 | 12.8% |
 | Trubbish | 30–40 | 12 | 12.8% |
 | Houndour | 30–40 | 10 | 10.6% |
 | Magby | 30–40 | 10 | 10.6% |
 | Stunky | 30–40 | 10 | 10.6% |
 | Skorupi | 30–40 | 10 | 10.6% |
-| Croagunk | 30–40 | 10 | 10.6% |
+
 | Skuntank | 35–45 | 8 | 8.5% |
 | Heatmor | 30–40 | 8 | 8.5% |
-| Grimer (Alola) | 30–40 | 5 | 5.3% |
 | Weezing (Galar) | 30–40 | 4 | 4.3% |
 | Growlithe (Hisui) | 30–40 | 4 | 4.3% |
 | Cyndaquil | 30–40 | 5 | 5.3% |
 | Larvesta | 30–40 | 3 | 3.2% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -1602,11 +1352,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Blacephalon *(Ultra Beast)* | 35–45 | 3 | 6.1% |
 | Pecharunt *(legendary)* | 50–50 | 1 | 2.0% |
 
-</details>
 
-# Route 21
+## Route 21
 
-## Route encounters
+# Route encounters
 **Base Pool** (7 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -1620,8 +1369,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Pidgeotto | 32–42 | 2 | 1.9% |
 | Bulbasaur | 5–5 | 5 | 4.6% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -1633,10 +1380,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Cherubi | 30–40 | 10 | 21.3% |
 | Snivy | 30–40 | 5 | 10.6% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -1646,11 +1389,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Fomantis | 30–40 | 10 | 35.7% |
 | Capsakid | 30–40 | 8 | 28.6% |
 
-</details>
 
-# Victory Road
+## Victory Road
 
-## Route encounters
+# Route encounters
 **Base Pool** (8 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -1666,8 +1408,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Aerodactyl | 40–48 | 3 | 3.0% |
 | Moltres *(legendary)* | 50–50 | 1 | 1.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -1684,10 +1424,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Druddigon | 34–48 | 5 | 7.0% |
 | Hitmontop | 40–48 | 8 | 11.3% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -1702,11 +1438,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Iron Boulder *(paradox)* | 40–50 | 3 | 5.8% |
 | Iron Crown *(paradox)* | 40–50 | 3 | 5.8% |
 
-</details>
 
-# Cerulean Cave
+## Cerulean Cave
 
-## Route encounters
+# Route encounters
 **Base Pool** (8 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -1718,8 +1453,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Graveler | 46–55 | 9 | 9.0% |
 | Mewtwo *(legendary)* | 70–70 | 1 | 1.0% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -1733,19 +1466,15 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Beldum | 20–20 | 5 | 14.7% |
 | Deino | 20–20 | 5 | 14.7% |
 
-</details>
 
 *Also: Regidrago (lv 50) appears after Ancient Ruins seal 1*
 
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
 | Pokémon | Levels | Weight | % |
 |---|---|---|---|
 | Noibat | 46–55 | 8 | 15.7% |
-| Goomy | 46–55 | 10 | 19.6% |
 | Jangmo-o | 46–55 | 8 | 15.7% |
 | Applin | 46–55 | 8 | 15.7% |
 | Frigibax | 46–55 | 8 | 15.7% |
@@ -1754,11 +1483,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Roaring Moon *(paradox)* | 55–65 | 3 | 5.9% |
 | Iron Valiant *(paradox)* | 55–65 | 3 | 5.9% |
 
-</details>
 
-# Faraway Island
+## Faraway Island
 
-## Route encounters
+# Route encounters
 **Base Pool** (8 badges)
 
 | Pokémon | Levels | Weight | % |
@@ -1775,8 +1503,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Dragonite | 50–60 | 3 | 3.2% |
 | Mew *(legendary)* | 50–50 | 1 | 1.1% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -1789,10 +1515,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Axew | 35–45 | 5 | 12.5% |
 | Archen | 35–45 | 5 | 12.5% |
 
-</details>
-
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -1808,26 +1530,90 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Iron Leaves *(paradox)* | 70–70 | 1 | 7.1% |
 | Terapagos *(legendary)* | 70–70 | 1 | 7.1% |
 
-</details>
 
-# The Abyss
+## The Shoals
 
-## Route encounters
+# Route encounters
+**Base Pool** (8 badges)
+
+| Pokémon | Levels | Weight | % |
+|---|---|---|---|
+| Corsola | 30–40 | 20 | 12.2% |
+| Remoraid | 30–40 | 15 | 10.7% |
+| Corsolar Galar | 32–42 | 14 | 7.6% |
+| Clauncher | 35–45 | 12 | 7.6% |
+| Wishiwashi | 35–45 | 15 | 6.1% |
+| Mareanie | 33–43 | 8 | 6.1% |
+| Arrokuda | 35–45 | 5 | 6.1% |
+| Toxapex | 38–48 | 5 | 4.6% |
+| Oshawott | 28–38 | 5 | 3.1% |
+| Tirtouga | 33–43 | 3 | 3.1% |
+| Manaphy *(legendary)* | 60–60 | 1 | 1.5% |
+
+
+**Gen 9 Unlock Pool**
+
+| Pokémon | Levels | Weight | % |
+|---|---|---|---|
+| Finizen | 35–45 | 2 | 6.1% |
+| Bruxish | 35–45 | 2 | 4.6% |
+| Pyukumuku | 33–43 | 1 | 3.1% |
+| Tatsugiri | 35–45 | 2 | 3.1% |
+| Dodonzo | 40–50 | 1 | 3.1% |
+| Tapu Fini *(legendary)* | 70–70 | 1 | 0.8% |
+
+
+## Toxic Swamp
+
+# Route encounters
+**Base Pool** (8 badges)
+
+| Pokémon | Levels | Weight | % |
+|---|---|---|---|
+| Croagunk | 30–40 | 10 | 9.4% |
+| Wooper | 2–5 | 10 | 8.4% |
+| Grimer (Alola) | 30–40 | 5 | 7.3% |
+| Barboach | 30–40 | 15 | 5.2% |
+| Tympole | 30–40 | 10 | 5.2% |
+| Skrelp | 32–42 | 8 | 5.2% |
+| Yanma | 30–40 | 8 | 4.2% |
+| Toxicroak | 35–45 | 5 | 4.2% |
+| Qwilfish | 33–43 | 8 | 4.2% |
+| Palpitoad | 35–45 | 3 | 4.2% |
+| Goomy | 35–45 | 3 | 4.2% |
+| Stunfisk | 33–43 | 2 | 3.1% |
+| Whiscash | 35–45 | 2 | 3.1% |
+| Gulpin | 33–43 | 2 | 3.1% |
+| Corphish | 33–43 | 2 | 3.1% |
+| Stunfisk (Galar) | 33–43 | 2 | 2.1% |
+| Mudkip | 5–5 | 1 | 1.0% |
+| Totodile | 5–35 | 1 | 1.0% |
+
+
+**Gen 9 Unlock Pool**
+
+| Pokémon | Levels | Weight | % |
+|---|---|---|---|
+| Toadschool | 30–40 | 1 | 10.5% |
+| Shroodle | 30–40 | 2 | 5.2% |
+| Wooper Paldea | 30–40 | 1 | 5.2% |
+| Wo-Chien *(legendary)* | 70–70 | 1 | 0.5% |
+
+## The Abyss
+
+# Route encounters
 **Base Pool** (8 badges)
 
 | Pokémon | Levels | Weight | % |
 |---|---|---|---|
 | Chinchou | 30–40 | 18 | 14.8% |
 | Carvanha | 30–40 | 15 | 12.3% |
-| Barboach | 30–40 | 15 | 12.3% |
 | Finneon | 30–40 | 12 | 9.8% |
 | Clamperl | 30–40 | 12 | 9.8% |
 | Frillish | 30–40 | 10 | 8.2% |
-| Remoraid | 30–40 | 12 | 9.8% |
 | Alomomola | 30–40 | 6 | 4.9% |
 | Lanturn | 35–45 | 6 | 4.9% |
 | Sharpedo | 35–45 | 6 | 4.9% |
-| Whiscash | 35–45 | 5 | 4.1% |
 | Lumineon | 35–45 | 5 | 4.1% |
 | Jellicent | 35–45 | 4 | 3.3% |
 | Octillery | 35–45 | 5 | 4.1% |
@@ -1837,8 +1623,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Lugia *(legendary)* | 50–50 | 1 | 0.8% |
 | Kyogre *(legendary)* | 70–70 | 1 | 0.8% |
 
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -1853,11 +1637,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Yveltal *(legendary)* | 70–70 | 1 | 3.0% |
 | Eternatus *(legendary)* | 70–70 | 1 | 3.0% |
 
-</details>
 
-# Ancient Ruins
+## Ancient Ruins
 
-## Route encounters
+# Route encounters
 **Base Pool**
 
 | Pokémon | Levels | Weight | % |
@@ -1868,8 +1651,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Solosis | 30–45 | 12 | 12.0% |
 | Elgyem | 35–50 | 8 | 8.0% |
 
-<details>
-<summary>Gen 9 unlock</summary>
 
 **Gen 9 Unlock Pool**
 
@@ -1884,11 +1665,10 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Necrozma *(legendary)* | 65–65 | 1 | 3.7% |
 | Calyrex *(legendary)* | 70–70 | 1 | 3.7% |
 
-</details>
 
-# Desert Ruins
+## Desert Ruins
 
-## Route encounters
+# Route encounters
 **Base Pool**
 
 | Pokémon | Levels | Weight | % |
@@ -1910,8 +1690,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Anorith | 35–50 | 3 | 2.3% |
 | Groudon *(legendary)* | 70–70 | 1 | 0.8% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool** (catch all Desert Ruins base Pokémon as shiny)
 
@@ -1928,7 +1706,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Ting-Lu *(legendary)* | 70–70 | 1 | 1.3% |
 | Koraidon *(legendary)* | 70–70 | 1 | 1.3% |
 
-</details>
 
 # Flower Garden
 
@@ -1948,8 +1725,6 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Turtwig | 10–15 | 5 | 5.9% |
 | Shaymin *(legendary)* | 30–30 | 1 | 1.2% |
 
-<details>
-<summary>Shiny unlock</summary>
 
 **Shiny Unlock Pool**
 
@@ -1961,9 +1736,9 @@ When multiple phases are active, all pools are combined into one weighted draw.
 | Deerling | 35–50 | 8 | 17.4% |
 | Skiddo | 35–50 | 8 | 17.4% |
 | Sprigatito | 35–50 | 5 | 10.9% |
+| Spritzee | 10–15 | 5 | 5.9% |
 | Virizion *(legendary)* | 50–50 | 1 | 2.2% |
 
-</details>
 
 ## Notes
 

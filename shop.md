@@ -11,7 +11,7 @@ All purchasable items organized by category and shop location.
 
 ## Items
 
-| Item | Shop Location |
+| Item | Shop Location or Way to Obtain |
 |------|----------------|
 | Potion | Any Shop location |
 | Antidote | Any Shop location |
@@ -22,6 +22,18 @@ All purchasable items organized by category and shop location.
 | Full Restore | Any Shop location (8 badges) |
 | Max Revive | Any Shop location (8 badges) |
 | Rare Candy | Celadon City |
+| Ability Capsule | Battle Tower |
+| Ability Patch | Battle Tower |
+| HP Up | Obtained randomly by a Pokemon with Pickup Ability |
+| Protein | Obtained randomly by a Pokemon with Pickup Ability |
+| Iron | Obtained randomly by a Pokemon with Pickup Ability |
+| Calcium | Obtained randomly by a Pokemon with Pickup Ability |
+| Zinc | Obtained randomly by a Pokemon with Pickup Ability |
+| Carbos | Obtained randomly by a Pokemon with Pickup Ability |
+| Fresh-Start Mochi | Obtained randomly by a Pokemon with Pickup Ability |
+| Honey | Obtained randomly by a Pokemon with Honey Gather Ability |
+
+
 
 ## Balls
 
@@ -83,6 +95,15 @@ All purchasable items organized by category and shop location.
 | Ice Beam | Cinnabar Island |
 | Trick Room | Saffron City |
 | Flame Charge | Vermilion City |
+| Brick Break | Indigo Plateau |
+| U-turn | Indigo Plateau |
+| Body Slam | Indigo Plateau |
+| Drain Punch | Indigo Plateau |
+| Dragon Claw | Indigo Plateau |
+| Dazzling Gleam | Indigo Plateau |
+| Flash Cannon | Indigo Plateau |
+| Dark Pulse | Indigo Plateau |
+| Power Gem | Indigo Plateau |
 
 ## Evolution Items
 
@@ -162,3 +183,11 @@ All purchasable items organized by category and shop location.
 | Choice Specs | Cinnabar Island |
 | Flame Orb | Cinnabar Island |
 | Charcoal | Cinnabar Island |
+| Heavy-Duty Boots | Battle Tower |
+| Air Balloon | Battle Tower |
+| Safety Goggles | Battle Tower |
+| Shed Shell | Battle Tower |
+| White Herb | Battle Tower |
+| Throat Spray | Battle Tower |
+| Red Card | Battle Tower |
+| Covert Cloak | Battle Tower |

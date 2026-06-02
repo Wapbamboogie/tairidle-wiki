@@ -181,3 +181,22 @@ All 171 TMs and where to obtain them. Each TM has exactly one source.
 | 169 | Draco Meteor | Wild — Faraway Island |
 | 170 | Steel Beam | Wild — Faraway Island |
 | 171 | Tera Blast | Wild — Faraway Island |
+| 175 | Toxic | Wild — Toxic Swamp |
+| 176 | Sand Tomb | Wild — Desert Ruins |
+| 177 | Spite | Wild — The Abyss |
+| 186 | High Horsepower | Wild — Desert Ruins |
+| 188 | Scald | Wild — The Abyss |
+| 194 | Grassy Glide | Wild — Flower Garden |
+| 196 | Flip Turn | Wild — The Shoals |
+| 200 | Scale Shot | Wild — The Shoals |
+| 206 | Petal Blizzard | Wild — Flower Garden |
+| 208 | Whirlpool | Wild — The Abyss |
+| 209 | Muddy Water | Wild — Toxic Swamp |
+| 212 | Triple Axel | Wild — The Shoals |
+| 214 | Sludge Wave | Wild — Toxic Swamp |
+| 215 | Scorching Sands | Wild — Desert Ruins |
+| 226 | Dragon Cheer | Wild — Desert Ruins |
+| 227 | Alluring Voice | Wild — Flower Garden |
+
+
+

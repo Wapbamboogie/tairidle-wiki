@@ -20,7 +20,10 @@ hero:
       link: /evolution
     - theme: alt
       text: Encounters and Locations
-      link: /encounters  
+      link: /encounters 
+    - theme: alt
+      text: Guide Ruins Riddles
+      link: /riddles  
 
 features:
   - title: TM Locations
@@ -35,4 +38,7 @@ features:
   - title: Encounters and Locations
     details: A complete list of all the pokemon encounters per routes as well as their level range and their enounter rate
     link: /encounters
+  - title: Guide Ruins Riddles
+    details: A guide for the ruins riddles as well as hints for those who just wants a bit of help
+    link: /riddles
 ---
