@@ -29,9 +29,10 @@ export default defineConfig({
         ],
       },
       {
-        text: 'Pokémon',
+        text: 'Guides',
         items: [
-          { text: 'Pokémon List', link: '/evolution' },
+          { text: 'Pokémon Special Evolution Methods', link: '/evolution' },
+          { text: 'Ruins Riddles', link: '/riddles' },
         ],
       },
       {
